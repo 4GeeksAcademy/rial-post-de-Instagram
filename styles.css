@@ -57,11 +57,12 @@
     font-size: 25px;
 }
 
-p
+.parrafo
 {
     margin: 8px;
     display: flex;
     text-align: justify;
+    font-size: large;
 }
 
 .negrita
