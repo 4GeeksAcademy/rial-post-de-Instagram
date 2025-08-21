@@ -62,7 +62,14 @@
     margin: 8px;
     display: flex;
     text-align: justify;
-    font-size: large;
+    font-size: 15px;
+}
+
+p
+{
+    margin: 8px;
+    display: flex;
+    text-align: justify;
 }
 
 .negrita
