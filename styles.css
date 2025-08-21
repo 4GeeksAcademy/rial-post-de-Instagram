@@ -15,11 +15,14 @@
     border-bottom: 1px solid #eee;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .fa-brands.fa-html5
 {
     font-size: 35px;
+    display: flex;
+    align-items: center;
 }
 
 .ellipsis
